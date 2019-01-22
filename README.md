@@ -15,12 +15,14 @@ To run the project, follow the instructions below:
 
 Download the repository to your computer:
 
+Run git clone in the terminal https://github.com/kristatrista/my-map-app.git
+
 In the repository folder:
 
 * install project dependencies with
 ```
 npm install --save google-maps-react
-npm install --saveaxios
+npm install --save axios
 npm install --save escape-string-regexp
 ```
 * start the development server with
